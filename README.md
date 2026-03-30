@@ -94,23 +94,15 @@ The system detects sudden impacts using a vibration sensor and instantly sends a
 
 ## 👨‍💻 Contributors
 
-** Anurag Sardar
+* **Anurag Sardar**
 * Prajwal Malegavi
 * Rishab Kar Chaudhuri
 
 ---
 
-## 🎓 Academic Details
-
-* Department: Electronics & Telecommunication
-* Institute: International Institute of Information Technology, Pune
-* University: Savitribai Phule Pune University
-* Academic Year: 2022–23
-
----
-
 ## 📜 License
 
+Project developed as part of a team during undergraduate studies.
 This project is for academic and educational purposes. Feel free to use and modify with proper credit.
 
 ---
