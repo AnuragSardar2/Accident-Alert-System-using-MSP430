@@ -100,6 +100,14 @@ The system detects sudden impacts using a vibration sensor and instantly sends a
 
 ---
 
+## 📚 Reference & Credits
+
+This project is inspired by:
+
+<a href="[https://circuitdigest.com/microcontroller-projects/msp430-vehicle-tracking-and-accident-detection-using-vibration-sensor]" target="_blank">Complete Guide to the Project</a>
+
+---
+
 ## 📜 License
 
 Project developed as part of a team during undergraduate studies.
